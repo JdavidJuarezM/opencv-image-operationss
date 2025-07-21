@@ -1,3 +1,6 @@
+# Opencv-image-operationss
+
+
 Realiza operaciones aritméticas y lógicas entre dos imágenes usando OpenCV.
 
 Este script carga dos imágenes ('original.jpg' y 'original2.jpg'),
